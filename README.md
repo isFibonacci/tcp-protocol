@@ -1,6 +1,5 @@
-# CSCI4211_rdt_python
-- Xingwang Cheng
-- cheng830@umn.edu
+## Overview
+The transport-level code for implementing a simple reliable data transfer protocol. The programming interface provided a simulated hardware/software environment. 
 
 ## Compilation steps
 1. install Python 3
